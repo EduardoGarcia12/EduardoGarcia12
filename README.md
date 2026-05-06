@@ -143,118 +143,25 @@ Se incorporaron tecnologias como Airflow, Docker, Python, PostgreSQL y Metabase 
 Para resolver el problema simplemente se implemento el proceso ETL utilizando Python para extrerlos, limpiarlos, validarlo y encontrar incosistencias así como cargarlos a BigQuery, posteriormente se escribieron scrips en Python simulando un Producer de Kafka que leyera los eventos simulados y un consumer que los procesara y mandara a BigQuery, después de un lapso de tiempo se visualizaron en LookerStudio. 
 
 
-- 🔹 **Logros y resultados:** Modelo entrenado para la predicción, mejora del modelo logístico con ajuste de umbral, optimización del rendimiento, entendimiento del abandono de empleados para la prevención y toma de decisiones.
-- 🔹 **Tecnologías y habilidades usadas:** Pandas, Scikit-Learn, redes neuronales y tensorflow, visualizaciones, Numpy, matplotlib, seaborn, clasificación.
-- 🔹 **Casos de uso:** Predicción de abandono de la empresa.
-- 🔹 **Qué aprendí:** Conocer la mayor parte del flujo de trabajo de un proyecto de ciencia de datos en Python, limpieza de datos, cómo planear y ejecutar visualizaciones para extracción de infromación, modelado predictivo y rendimiento de clasificadores.
-- 🔹 **Futuras mejoras:** Comparar los resultados de los modelos en conjunto, métodos de evaluación más robusto como validación cruzada, profundizar en la optimizacion de los modelos con sus parámetros e hiperparámetros, implementar el descenso del gradiente con la funcion de costes simplificada para la regresión, implementar XGBoost.
-  
+- 🔹 **Logros y resultados:** El analisis de datos mostro que Baltimore City mostro altos crimenes cometidos. Así como el exito de los evento simulados usando Kafka.  
+- 🔹 **Tecnologías y habilidades usadas:** Pandas, Kafka, Docker, BigQuery y LookerStudio.
+- 🔹 **Qué aprendí:** Conocer la mayor parte de la arquitectura y flujo de trabajo de un proyecto de ingenieria y analisis de datos en Python, limpieza de datos, cómo planear y ejecutar visualizaciones para extracción de infromación y graficar esta información con consultas de BigQuery y conectando mi tabla a Looker Studio. 
+- 🔹 **Futuras mejoras:** Incorporar datos recientes de los últimos seis años e implementar modelos predictivos para poder predecir futuros crimenes por condados. 
 ---
 
-### [Análisis de muertes en el mundo con visualizaciones](https://github.com/Jesus20MM/Muertes-en-el-mundo.git)
-**Descripción breve:** Este proyecto tiene como objetivo analizar la evolución temporal de las principales causas de muerte a nivel global entre 1990 y 2019, con un enfoque particular en Estados Unidos y China como representantes de Occidente y Oriente, respectivamente.
+### [Análisis de talleres, edades y resago educativo en PILARES, TLAHUAC, CDMX]()
+**Descripción breve:** Mi trabajo como profesionista fue poder identificar el resago educativo y talleres de mayor demanda así como la edad promedio de los usuarios de Pilares Tlahuac para tomar acciones pedagogicas y mejoras educativas para contrarestar el resago educativo de los años 2020, 2021, 2022 y 2025. 
+Para lograrlo, se utilizó Python como herramienta principal, realizando un exhaustivo proceso de limpieza y transformación de datos para categorizar datos en un formato adecuado para el análisis. Posteriormente, se aplicó una estrategia de agrupación por taller, edad y nivel academico, lo que permitió estudiar la evolución del resago educativo y el uso de la computadora para adultos mayores, ya que este fue el taller mas usado.
 
-Para lograrlo, se utilizó Python como herramienta principal, realizando un exhaustivo proceso de limpieza y transformación de datos para reorganizar la tabla original en un formato adecuado para el análisis temporal. Posteriormente, se aplicó una estrategia de agrupación por país, causa y año, lo que permitió estudiar la evolución de las muertes de manera estructurada.
+Una parte destacada del trabajo fue el desarrollo de un script en Python que permite categorizar a los talleres, ya que estos fueron registrados de manera aleatoria.
 
-Una parte destacada del trabajo fue el desarrollo de un script en Python que permite generar múltiples visualizaciones iterativas de manera automatizada, facilitando la comparación entre países y causas a lo largo del tiempo. Este enfoque habría sido considerablemente más complejo de implementar en otros entornos no programables. El análisis permitió identificar tendencias clave y diferencias notables entre ambos países en cuanto a las causas predominantes de mortalidad.
-
-- 🔹 **Logros y resultados:** Visualizaciones múltiples de las causas de muerte en China y EUA desde 1990 hasta 2019. Esto permite entender el cambio en el comportamiento de las enfermedades en el tiempo y tomar decisiones gubernamentales, por ejemplo, hacia qué área de prevención invertir óptimamente 
-- 🔹 **Tecnologías y habilidades usadas:** Pandas, Numpy, matplotlib, seaborn, programación, visualización y limpieza de datos
+- 🔹 **Logros y resultados:** Se logro observar que los talleres con mayor demanda eran matemáticas y el uso de computadora, ademas de que en promedio la edad de las personas con estudios superiores era de 29, 30 y 31 años, mientras que los adultos mayores hacian uso de la computadora y su edad promedio era de 60 y 61 años. Esto ayudo a implementar acciones que nos ayudara a cercar a las personas a continuar sus estudios. 
+- 🔹 **Tecnologías y habilidades usadas:** Pandas, Numpy, Tableau, pandas, programación, visualización y limpieza de datos. 
 - 🔹 **Casos de uso:** Visualizaciones múltiples de tendencia. 
-- 🔹 **Qué aprendí:** Cómo organizar una tabla según el objetivo de la visualizacion, formas de usar la logica para automatizar y visualizaciones, hacer analogía del uso de Python contra otras herramientas de visualización.
-- 🔹 **Futuras mejoras:** La calidad de los graficos se puede disponer más estética, se pueden analizar más países y comparar continentes o países vecinos para obtener tendencias o ver qué sistema de salud es más eficiente para replicar ciertas conductas adaptadas al país analizado, se puede elaborar un reporte en otro software  de visualizacion o documento para resumir los resultados.
----
+- 🔹 **Qué aprendí:** Categorizar información, encontrar tendencias y evolución de mis variables a lo largo de dos años. 
+- 🔹 **Futuras mejoras:** Incorporar los registros de los años 2023, 2024 y 2026 para realizar comparaciones a lo largo de estos últimos 6 años. Implemetar modelos de inteligencia artificar para clasificar con mayor facilidad los datos y predecir resultados.
 
-### [Planeación de campaña de marketing con Segmentación](https://github.com/Jesus20MM/Proyecto-Marketing.git)
-**Descripción breve:** Este proyecto guiado tiene como objetivo segmentar a los clientes activos de una institución financiera con el fin de diseñar campañas de marketing más efectivas para la promoción de tarjetas de crédito.
-Utilizando Python como herramienta principal, se trabajó con un conjunto de datos que incluye diversas características. El proceso comenzó con una limpieza y exploración de datos para detectar valores atípicos, datos faltantes y variables irrelevantes. Posteriormente, se aplicaron técnicas de reducción de dimensionalidad y escalamiento para preparar los datos para la segmentación.
-
-La segmentación se realizó mediante algoritmos de clustering, con especial énfasis en K-Means. Se evaluó el número óptimo de segmentos utilizando el método del codo analizando la inercia.
-Como resultado, se obtuvieron perfiles de clientes bien diferenciados, permitiendo diseñar campañas específicas para cada grupo con mayor probabilidad de éxito. Además, se generaron visualizaciones para facilitar la interpretación de los segmentos.
-
-
-- 🔹 **Logros y resultados:** Visualización de la segmentación para la toma estratégica de decisiones, modelo óptimo en cuanto al numero de segmentadores.
-- 🔹 **Tecnologías y habilidades usadas:** Scikit lern, Pandas, Numpy, matplotlib, seaborn, clusterización, k-means
-- 🔹 **Casos de uso:** Segmentación de clientes.
-- 🔹 **Qué aprendí:** Hacer visulizaciones más complejas, aplicar y otimizar modelos de segmentación, optimización de la segmentación de k medias con el metodo del codo y análisis de inercia, reducir la dimensión eficazmente con PCA para obtener visualizaciones alcanzables.
-- 🔹 **Futuras mejoras:** Profundizar en los auecoders o modelos útiles para el objetivo, hacer un análisis de resultados más exhaustivo.
-  
----
-
-### [Detección de accidentes cerebrovasculares con clasificación](https://github.com/Jesus20MM/Proyecto-accidentes-cerebrovasculares.git)
-**Descripción breve:** Este proyecto tiene como objetivo predecir la probabilidad de que un paciente sufra un accidente cerebrovascular (ACV) a partir de una serie de características clínicas, utilizando algoritmos de clasificación El modelo principal implementado fue una regresión logística, complementada con otros clasificadores como bosques aleatorios y máquinas de soporte vectorial para comparar el desempeño.
-
-Dado el contexto médico del problema, se dio especial énfasis al análisis de la matriz de confusión, priorizando la minimización de los falsos negativos, es decir, los casos en los que el modelo no detecta un riesgo de ACV cuando realmente existe. Esta consideración es crítica en el ámbito de la salud, donde una predicción errónea puede tener consecuencias graves.
-
-El proyecto incluyó también el ajuste del umbral de clasificación para optimizar la sensibilidad del modelo, así como la evaluación de métricas como el recall, la precisión y la curva ROC. Los resultados permitieron obtener un modelo útil para apoyar decisiones médicas preventivas.
-
-
-- 🔹 **Logros y resultados:** Modelo que, en principio, es adecuado para dar un daignóstico preeliminar de la probailidad de sufrir un accidente, se analizó eficientemente la matriz de confusión y sus métricas.
-- 🔹 **Tecnologías y habilidades usadas:** Scikitlern, Pandas, Numpy, matplotlib, seaborn, curva ROC, clasificacion, regresión logística
-- 🔹 **Casos de uso:** Prevención de accidentes cerebrovasculares
-- 🔹 **Qué aprendí:** Manejo de desbalance de clases en clasificación binaria, optimización con umbral y curva ROC, análisis profundo de la matriz de confusión y sus métricas, entender que la métrica depende del contexto y del problema estudiado
-- 🔹 **Futuras mejoras:** Implementar y optimizar en profundidad los modelos restantes, analizar los coeficientes de la regresión logística e implementar descenso de gradiente, organizar mejor el flujo de trabajo e incluso impelmentar pipelines.
----
-
-
-### [Predicción de ventas con Deep Learning](https://github.com/Jesus20MM/Proyecto-ventas.git)
-
-**Descripción breve:** En este proyecto guiado, el objetivo es predecir las ventas de varias tiendas a partir de una base de datos compuesta por dos tablas relacionadas: una contiene el historial de ventas y la otra, información adicional sobre las tiendas. Para ello, se emplea el análisis de series de tiempo, con el fin de capturar patrones temporales y generar predicciones en función del tiempo.
-
-Como herramienta principal se utiliza Facebook Prophet, un modelo aditivo diseñado específicamente para trabajar con series temporales. Además del análisis exploratorio de datos y la extracción de información relevante, se realiza ingeniería de características para descomponer la variable temporal en componentes como año, mes y día, lo cual permite un análisis más detallado y una mejor modelación del comportamiento de las ventas a lo largo del tiempo.
-
-
-- 🔹 **Logros y resultados:** Predicción de ventas para un número selecto de tiendas a partir del uso de series de tiempo con Facebook Prophet
-- 🔹 **Tecnologías y habilidades usadas:** Facebook Prophet, series de tiempo, pandas
-- 🔹 **Casos de uso:** Predecir ventas de tiendas
-- 🔹 **Qué aprendí:** Uso básico de facebook prophet, extracción de información con series de tiempo
-
----
-
-
-
-
-
-## Power BI
-
-### [Análisis de ventas de una empresa de electrónica](https://github.com/Jesus20MM/Proyecto-ventas-electronica.git)
-**Descripción breve:** El objetivo de este reporte es extraer información clave del negocio mediante visualizaciones interactivas basadas en indicadores como región, vendedor y tipo de producto, con el fin de identificar tendencias comerciales y apoyar la toma de decisiones estratégicas.
-Utilizando Power BI, se construyó un dashboard que permite explorar el rendimiento de diferentes sucursales, analizar el desempeño individual de los vendedores y evaluar la demanda por categoría de producto.
-
-El análisis facilitó la identificación de patrones relevantes, como regiones con mayores ventas, productos con mejor rotación y vendedores con mayor rendimiento. Estos hallazgos ofrecen un esquema claro para orientar decisiones relacionadas con la asignación de recursos, gestión de empleados, expansión o cierre de sucursales, y estrategias comerciales por línea de producto.
-
-- 🔹 **Logros y resultados:** Se logró hacer un dashboard donde se representa al completo la información para que la experiencia de visualización con el Stakeholder sea clara y dinámica, se logró entender la eficiencia de cada vendedor segmentado por tipo de producto y región
-- 🔹 **Tecnologías y habilidades usadas:** Inteligencia de negocios, visualizaciones, dashboard, power query
-- 🔹 **Casos de uso:** Identificar tendencias de ventas para la toma de decisiones
-- 🔹 **Qué aprendí:** Visualizaciones básicas, diseño de dashboard, formatos, matrices.
----
-
-
-
-
-
-### [Reporte de producción](https://github.com/Jesus20MM/Proyecto-reporte-producci-n.git)
-**Descripción breve:** Este proyecto consistió en el análisis del estatus de entrega y devolución de productos de una empresa, considerando variables como la fecha, el vendedor, el tipo de distribuidor y otros factores relevantes, con el objetivo de evaluar la eficiencia operativa del negocio.
-Se utilizaron herramientas de análisis y visualización para identificar patrones, retrasos y comportamientos recurrentes en los procesos logísticos. El análisis permitió detectar posibles cuellos de botella, diferencias de desempeño entre vendedores o distribuidores, y tendencias temporales en la entrega o devolución de productos.
-
-- 🔹 **Logros y resultados:** Se logró hacer un dashboard eficiente con los principales indicadores solicitados, segmentando la región, nivel de prioridad, nombre del gerente, etc.
-- 🔹 **Tecnologías y habilidades usadas:** Inteligencia de negocios, limpieza de datos con power query, segmentadores, diseño de dashboard, storytelling.
-- 🔹 **Casos de uso:** Visualización de eficiencia de procesos logísticos
-
-
----
-
-
-
-
-
-
-
-
-
-
-
-
+- 
 <!-- Connect with me -->
 <!-- h2 without bottom border -->
 <div id="user-content-toc">
