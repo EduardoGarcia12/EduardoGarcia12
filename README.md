@@ -2,9 +2,7 @@
 
 
 
-<!-- Entusiasta+de+las+finanzas -->
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+soy+Jesús,+Físico;Data+Scientist+Jr...;Machine+Learning..." />
+<!-- Apasiado+de+las+tecnologias+matematicas+ciencia -->
 
 
 <p align="center">
