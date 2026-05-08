@@ -8,7 +8,7 @@
 
 # Sobre mí
 
-🎓 Estudios: Estudie la licenciatura en física en la Universidad Autonoma Metropolitana, unidad Iztapalapa y Metemáticas en la Universidad Abierta y a Distancia de México. 
+🎓 Estudios: Estudie la licenciatura en física en la Universidad Autonoma Metropolitana, unidad Iztapalapa y Metematicas en la Universidad Abierta y a Distancia de México. 
 
 🚀 Motivación: Apasionado por la ciencia, analisis e ingenieria de datos y el aprendizaje automático desde 2022.  
 
@@ -73,7 +73,7 @@ Busco integrarme en un equipo donde pueda aplicar mis habilidades profesionales 
 
 
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)  ![[Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) ![GeoPandas](https://img.shields.io/badge/GeoPandas-008080?style=for-the-badge&logo=geopandas&logoColor=white) ![Estadística](https://img.shields.io/badge/Estadística-1E90FF?style=for-the-badge&logo=chart-bar&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF8C00?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Series de Tiempo](https://img.shields.io/badge/Series%20de%20Tiempo-FF6347?style=for-the-badge&logo=clockify&logoColor=white) ![Tecnologías en la nube](https://img.shields.io/badge/Tecnologías%20en%20la%20nube-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)  ![[Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) ![Estadística](https://img.shields.io/badge/Estadística-1E90FF?style=for-the-badge&logo=chart-bar&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF8C00?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Series de Tiempo](https://img.shields.io/badge/Series%20de%20Tiempo-FF6347?style=for-the-badge&logo=clockify&logoColor=white) ![Tecnologías en la nube](https://img.shields.io/badge/Tecnologías%20en%20la%20nube-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 
 ## Habilidades destacadas
