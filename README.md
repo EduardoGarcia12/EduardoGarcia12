@@ -60,7 +60,7 @@ Busco integrarme en un equipo donde pueda aplicar mis habilidades profesionales 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologías que sé👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Tecnologías que he usado👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -73,8 +73,8 @@ Busco integrarme en un equipo donde pueda aplicar mis habilidades profesionales 
 
 
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) ![GeoPandas](https://img.shields.io/badge/GeoPandas-008080?style=for-the-badge&logo=geopandas&logoColor=white) ![Estadística](https://img.shields.io/badge/Estadística-1E90FF?style=for-the-badge&logo=chart-bar&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF8C00?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Series de Tiempo](https://img.shields.io/badge/Series%20de%20Tiempo-FF6347?style=for-the-badge&logo=clockify&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge&logo=openai&logoColor=white) ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)  ![Analítica Geoespacial](https://img.shields.io/badge/Anal%C3%ADtica%20Geoespacial-589632?style=for-the-badge&logo=qgis&logoColor=white) <!-- ![Finanzas](https://img.shields.io/badge/Finanzas-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) --> ![Tecnologías en la nube](https://img.shields.io/badge/Tecnologías%20en%20la%20nube-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
- ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)  ![[Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) ![GeoPandas](https://img.shields.io/badge/GeoPandas-008080?style=for-the-badge&logo=geopandas&logoColor=white) ![Estadística](https://img.shields.io/badge/Estadística-1E90FF?style=for-the-badge&logo=chart-bar&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF8C00?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Series de Tiempo](https://img.shields.io/badge/Series%20de%20Tiempo-FF6347?style=for-the-badge&logo=clockify&logoColor=white) ![Tecnologías en la nube](https://img.shields.io/badge/Tecnologías%20en%20la%20nube-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
 
 ## Habilidades destacadas
 
@@ -177,15 +177,8 @@ Una parte destacada del trabajo fue el desarrollo de un script en Python que per
 </a>
  <!-- Outlook (Microsoft Email) -->
 <!-- Outlook (Microsoft Email) con tooltip -->
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=jesusmun150@gmail.com" target="_blank" style="margin-left: 20px;" title="jesusmun150@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=eduardogarcia83911@gmail.com" target="_blank" style="margin-left: 20px;" title="eduardogarcia83911@gmail.com">
   <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="gmail" height="50" width="50" />
 </a>
 
 
-
-
-  <!-- WhatsApp -->
-  <a href="https://wa.me/5576340971" target="_blank" style="margin-left: 20px;">
-    <img align="center" src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="whatsapp" height="50" width="50" />
-  </a>
-</p>
