@@ -158,7 +158,7 @@ Desarrollar un pipeline de ingeniería de datos capaz de simular eventos en tiem
 ### 🇺🇸 English Version
 
 <a href="LINK_VIDEO_ENGLISH">
-  <img src="https://img.youtube.com/vi/VIDEO_ID_EN/maxresdefault.jpg" width="400"/>
+  <img src="https://img.youtube.com/vi/jINcV2zDAk0/maxresdefault.jpg" width="400"/>
 </a>
 
 </td>
