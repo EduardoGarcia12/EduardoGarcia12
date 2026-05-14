@@ -162,23 +162,18 @@ Una parte destacada del trabajo fue el desarrollo de un script en Python que per
 - 🔹 **Futuras mejoras:** Incorporar los registros de los años 2023, 2024 y 2026 para realizar comparaciones a lo largo de estos últimos 6 años. Implemetar modelos de inteligencia artificar para clasificar con mayor facilidad los datos y predecir resultados.
 
 - 
-<!-- Connect with me -->
-<!-- h2 without bottom border -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Puedes contactarme en🤝</h2></summary>
-  </ul>
-</div>
+## 🌐 Conecta conmigo
 
-<!-- icons and links -->
-<p align="center">
-  <a href="www.linkedin.com/in/eduardo-garcía-171889273" target="_blank">
-  <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
-</a>
- <!-- Outlook (Microsoft Email) -->
-<!-- Outlook (Microsoft Email) con tooltip -->
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=eduardogarcia83911@gmail.com" target="_blank" style="margin-left: 20px;" title="eduardogarcia83911@gmail.com">
-  <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="gmail" height="50" width="50" />
-</a>
+<p align="left">
+  <a href="TU_LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 
+  <a href="TU_GITHUB">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 
+  <a href="TU_YOUTUBE">
+    <img src="https://skillicons.dev/icons?i=youtube" />
+  </a>
+</p>
