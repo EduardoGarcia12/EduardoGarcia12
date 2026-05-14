@@ -137,7 +137,7 @@ Desarrollar un pipeline de ingeniería de datos capaz de simular eventos en tiem
 ## 🧱 Arquitectura del proyecto
 
 <p align="center">
-  <img src="images/kafka_architecture.png" width="900"/>
+  <img src="kafka_architecture.png" width="900"/>
 </p>
 
 ---
