@@ -137,16 +137,125 @@ Se incorporaron tecnologias como Airflow, Docker, Python, PostgreSQL y Metabase 
 ---
 
 
-### [Simulación de eventos utilizando Kafka, analisis de datos en tiempo semi-real](https://github.com/EduardoGarcia12/Violent-Crime-Data-Pipeline-End-to-End-)
-**Descripción breve:** Aqui vamos a analizar los datos de los distintos tipo de crimenes cometidos en Estados Unidos de los años 1975 a 2020 que se encuentran en la pagina de datos publicos de Estados Unidos, en formato CSV y posteriormente vamos a simular eventos en tiempo semi-real utilizando Kafka y utilizar BigQuery para guardarlos y visualizar esta informacion en Looker Studio ademas de dockerizar todo el proyecto con un Docker-Compose.yml
+# 🚔 Simulación de eventos utilizando Kafka | Data Engineering Pipeline
 
-Para resolver el problema simplemente se implemento el proceso ETL utilizando Python para extrerlos, limpiarlos, validarlo y encontrar incosistencias así como cargarlos a BigQuery, posteriormente se escribieron scrips en Python simulando un Producer de Kafka que leyera los eventos simulados y un consumer que los procesara y mandara a BigQuery, después de un lapso de tiempo se visualizaron en LookerStudio. 
+## 📌 Objetivo del proyecto
 
+Desarrollar un pipeline de ingeniería de datos capaz de simular eventos en tiempo semi-real utilizando Apache Kafka, procesar información sobre crímenes en Estados Unidos y visualizar métricas utilizando BigQuery y Looker Studio.
 
-- 🔹 **Logros y resultados:** El analisis de datos mostro que Baltimore City mostro altos crimenes cometidos. Así como el exito de los evento simulados usando Kafka.  
-- 🔹 **Tecnologías y habilidades usadas:** Pandas, Kafka, Docker, BigQuery y LookerStudio.
-- 🔹 **Qué aprendí:** Conocer la mayor parte de la arquitectura y flujo de trabajo de un proyecto de ingenieria y analisis de datos en Python, limpieza de datos, cómo planear y ejecutar visualizaciones para extracción de infromación y graficar esta información con consultas de BigQuery y conectando mi tabla a Looker Studio. 
-- 🔹 **Futuras mejoras:** Incorporar datos recientes de los últimos seis años e implementar modelos predictivos para poder predecir futuros crimenes por condados. 
+---
+
+## 🛠️ Tecnologías utilizadas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,docker,kafka,gcp,git,github" />
+</p>
+
+- Python  
+- Apache Kafka  
+- Docker  
+- BigQuery  
+- Looker Studio  
+- Pandas  
+
+---
+
+## 🧱 Arquitectura del proyecto
+
+<p align="center">
+  <img src="images/kafka_architecture.png" width="900"/>
+</p>
+
+---
+
+## 🎥 Videos del proyecto
+
+<table>
+<tr>
+
+<td align="center">
+
+### 🇲🇽 Explicación en Español
+
+<a href="LINK_VIDEO_ESPAÑOL">
+  <img src="https://img.youtube.com/vi/VIDEO_ID_ES/maxresdefault.jpg" width="400"/>
+</a>
+
+</td>
+
+<td align="center">
+
+### 🇺🇸 English Version
+
+<a href="LINK_VIDEO_ENGLISH">
+  <img src="https://img.youtube.com/vi/VIDEO_ID_EN/maxresdefault.jpg" width="400"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 📊 Dashboard y visualizaciones
+
+### Dashboard en Looker Studio
+
+<p align="center">
+<a href="LINK_DASHBOARD_LOOKER">
+  <img src="images/dashboard_kafka.png" width="900"/>
+</a>
+</p>
+
+---
+
+## 📂 Repositorio del proyecto
+
+🔗 [Ver repositorio completo](https://github.com/EduardoGarcia12/Violent-Crime-Data-Pipeline-End-to-End-)
+
+---
+
+## ⚙️ Flujo de trabajo del pipeline
+
+1. Extracción de datos históricos sobre crímenes en Estados Unidos en formato CSV.
+2. Limpieza, validación y transformación de datos utilizando Python y Pandas.
+3. Simulación de eventos en tiempo semi-real mediante Kafka Producer.
+4. Procesamiento de eventos utilizando Kafka Consumer.
+5. Carga de datos procesados en BigQuery.
+6. Visualización y análisis de métricas en Looker Studio.
+7. Contenerización completa utilizando Docker Compose.
+
+---
+
+## 📈 Resultados obtenidos
+
+- Identificación de ciudades con altos índices delictivos.
+- Simulación exitosa de eventos utilizando Apache Kafka.
+- Integración funcional entre Kafka, BigQuery y Looker Studio.
+- Construcción de un pipeline End-To-End orientado a ingeniería de datos.
+
+---
+
+## 🧠 Qué aprendí
+
+- Arquitectura general de proyectos de ingeniería de datos.
+- Procesos ETL utilizando Python.
+- Manejo de eventos en tiempo semi-real con Kafka.
+- Integración de BigQuery con herramientas de visualización.
+- Contenerización de arquitecturas utilizando Docker.
+- Diseño de dashboards para extracción de insights.
+
+---
+
+## 🚀 Futuras mejoras
+
+- Incorporar Apache Airflow para automatización y orquestación.
+- Implementar procesamiento distribuido.
+- Integrar datos recientes en tiempo real.
+- Crear modelos predictivos sobre comportamiento delictivo.
+- Escalar consumidores Kafka utilizando particiones.
+
 ---
 
 ### [Análisis de talleres, edades y resago educativo en PILARES, TLAHUAC, CDMX]()
