@@ -111,32 +111,6 @@ Busco integrarme en un equipo donde pueda aplicar mis habilidades profesionales 
 
 - 🧠 Toma de decisiones basada en evidencia (capacidad de transformar el análisis en insights accionables, evitando quedarse únicamente en la complejidad técnica)
 
-
-# Proyectos Destacados
-
-
-
-
-
-## Pipeline End-To-End, trafico de la Ciudad de Nueva York, Estados Unidos
-
-
- ### [Trafico](https://github.com/EduardoGarcia12/Violent-Crime-Data-Pipeline-End-to-End-) 
-
-En curso...
-
-Descripción breve: Se tiene como fin capturar información como; si los autobuses estan llegando en tiempo y forma, atrazados o adelantados. 
-
-Se incorporaron tecnologias como Airflow, Docker, Python, PostgreSQL y Metabase para poder hacer consultar y clasificar a los autobuses según el tiempo que tardaban en llegar a una parada, ya que estos siguen una rutas especificas. 
-
-- 🔹 Logros y resultados: Se logro detectar algunos autobuses que mas se tardaban en llegar a la estacion en un promedio de tiempo dado así como obtener información adicional como la velocidad media de estos y ver si influia esto o no.
-- 🔹 Tecnologías y habilidades usadas: Airflow, Docker, Python (pandas), PostgreSQL y Metabase
-- 🔹 Casos de uso: Buscar la causa de los atrazos según el ID del autobus. 
-- 🔹 Qué aprendí: Realizar consultas en SQL, funcionamiento de Metabase, Airflow y Docker. 
-- 🔹 Futuras mejoras: Implementar Kafka y el DAG de Airflow se ejecute según los eventos de llegada. 
----
-
-
 # 🚔 Simulación de eventos utilizando Kafka | Data Engineering Pipeline
 
 ## 📌 Objetivo del proyecto
@@ -230,7 +204,7 @@ Desarrollar un pipeline de ingeniería de datos capaz de simular eventos en tiem
 
 ## 📈 Resultados obtenidos
 
-- Identificación de ciudades con altos índices delictivos.
+- Identificación de los autobuses que llegan a una parada en función de su ID. 
 - Simulación exitosa de eventos utilizando Apache Kafka.
 - Integración funcional entre Kafka, BigQuery y Looker Studio.
 - Construcción de un pipeline End-To-End orientado a ingeniería de datos.
