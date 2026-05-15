@@ -304,7 +304,7 @@ Analizar datos de Pilares Nopalera de los años 2020, 2021, 2022 y 2025 para obs
 
 ## 📂 Repositorio del proyecto
 
-🔗 [Ver repositorio completo](https://github.com/EduardoGarcia12/Violent-Crime-Data-Pipeline-End-to-End-)
+🔗 [Ver repositorio completo](https://github.com/EduardoGarcia12/An-lisis-de-datos-sobre-la-educaci-n-en-la-Alcald-a-Tlahuac-Ciudad-de-M-xico)
 
 ---
 
