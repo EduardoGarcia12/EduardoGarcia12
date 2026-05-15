@@ -278,8 +278,8 @@ Analizar datos de Pilares Nopalera de los años 2020, 2021, 2022 y 2025 para obs
 
 ## 🎥 Explicación en Español
 
-<a href="https://www.youtube.com/watch?v=i1_kav7Iep4&t">
-  <img src="https://img.youtube.com/vi/i1_kav7Iep4&t/maxresdefault.jpg" width="700"/>
+<a href="https://www.youtube.com/watch?v=wUgCyCNnwUU&t">
+  <img src="https://img.youtube.com/vi/wUgCyCNnwUU&t/maxresdefault.jpg" width="700"/>
 </a>
 
 ### 🇺🇸 English Version
