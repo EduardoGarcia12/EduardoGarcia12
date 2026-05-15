@@ -240,6 +240,122 @@ Una parte destacada del trabajo fue el desarrollo de un script en Python que per
 - 🔹 **Qué aprendí:** Categorizar información, encontrar tendencias y evolución de mis variables a lo largo de dos años. 
 - 🔹 **Futuras mejoras:** Incorporar los registros de los años 2023, 2024 y 2026 para realizar comparaciones a lo largo de estos últimos 6 años. Implemetar modelos de inteligencia artificar para clasificar con mayor facilidad los datos y predecir resultados.
 
+# 🚔 Análisis de talleres, edades y resago educativo en PILARES, TLAHUAC, CDMX | Data Analyze
+
+## 📌 Objetivo del proyecto
+
+Analizar datos de Pilares Nopalera de los años 2020, 2021, 2022 y 2025 para observar el resago educativo, talleres mas demandados y las edad promedio de los usuarios. Esto para implementar acciones pedagogicas y "motivar" a las personas a continuar con sus estudios de educación basica, media superior y superior. 
+
+---
+
+## 🛠️ Tecnologías utilizadas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,,tableau, excel" />
+</p>
+
+- Python
+- Tableau
+- Excel 
+- Pandas  
+
+---
+
+## 🧱 Arquitectura del proyecto
+
+<p align="center">
+  <img src="arquitectura_crimenes.jpg" width="900"/>
+</p>
+
+---
+
+## 🎥 Videos del proyecto
+
+<table>
+<tr>
+
+<td align="center">
+
+## 🎥 Explicación en Español
+
+<a href="https://www.youtube.com/watch?v=i1_kav7Iep4&t">
+  <img src="https://img.youtube.com/vi/i1_kav7Iep4&t/maxresdefault.jpg" width="700"/>
+</a>
+
+### 🇺🇸 English Version
+
+<a href="LINK_VIDEO_ENGLISH">
+  <img src="https://img.youtube.com/vi/jINcV2zDAk0/maxresdefault.jpg" width="400"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 📊 Dashboard y visualizaciones
+
+### Dashboard en Looker Studio
+
+<p align="center">
+<a href="LINK_DASHBOARD_LOOKER">
+  <img src="kafka_architecture.png" width="900"/>
+</a>
+</p>
+
+---
+
+## 📂 Repositorio del proyecto
+
+🔗 [Ver repositorio completo](https://github.com/EduardoGarcia12/Violent-Crime-Data-Pipeline-End-to-End-)
+
+---
+
+## ⚙️ Flujo de trabajo del pipeline
+
+1. Extracción de datos históricos sobre crímenes en Estados Unidos en formato CSV.
+2. Limpieza, validación y transformación de datos utilizando Python y Pandas.
+3. Simulación de eventos en tiempo semi-real mediante Kafka Producer.
+4. Procesamiento de eventos utilizando Kafka Consumer.
+5. Carga de datos procesados en BigQuery.
+6. Visualización y análisis de métricas en Looker Studio.
+7. Contenerización completa utilizando Docker Compose.
+
+---
+
+## 📈 Resultados obtenidos
+
+- Identificación de los autobuses que llegan a una parada en función de su ID. 
+- Simulación exitosa de eventos utilizando Apache Kafka.
+- Integración funcional entre Kafka, BigQuery y Looker Studio.
+- Construcción de un pipeline End-To-End orientado a ingeniería de datos.
+
+---
+
+## 🧠 Qué aprendí
+
+- Arquitectura general de proyectos de ingeniería de datos.
+- Procesos ETL utilizando Python.
+- Manejo de eventos en tiempo semi-real con Kafka.
+- Integración de BigQuery con herramientas de visualización.
+- Contenerización de arquitecturas utilizando Docker.
+- Diseño de dashboards para extracción de insights.
+
+---
+
+## 🚀 Futuras mejoras
+
+- Incorporar Apache Airflow para automatización y orquestación.
+- Implementar procesamiento distribuido.
+- Integrar datos recientes en tiempo real.
+- Crear modelos predictivos sobre comportamiento delictivo.
+- Escalar consumidores Kafka utilizando particiones.
+
+---
+
+
 - 
 ## 🌐 Conecta conmigo
 
