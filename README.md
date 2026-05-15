@@ -301,9 +301,16 @@ Analizar datos de Pilares Nopalera de los años 2020, 2021, 2022 y 2025 para obs
 
 <p align="center">
 <a href="LINK_DASHBOARD_LOOKER">
-  <img src="kafka_architecture.png" width="900"/>
+  <img src="PILARES_2020_A_2022.png" width="900"/>
 </a>
 </p>
+
+<p align="center">
+<a href="LINK_DASHBOARD_LOOKER">
+  <img src="PILARES_2025.png" width="900"/>
+</a>
+</p>
+
 
 ---
 
