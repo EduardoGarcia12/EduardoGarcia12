@@ -228,18 +228,6 @@ Desarrollar un pipeline de ingeniería de datos capaz de simular eventos en tiem
 
 ---
 
-### [Análisis de talleres, edades y resago educativo en PILARES, TLAHUAC, CDMX]()
-**Descripción breve:** Mi trabajo como profesionista fue poder identificar el resago educativo y talleres de mayor demanda así como la edad promedio de los usuarios de Pilares Tlahuac para tomar acciones pedagogicas y mejoras educativas para contrarestar el resago educativo de los años 2020, 2021, 2022 y 2025. 
-Para lograrlo, se utilizó Python como herramienta principal, realizando un exhaustivo proceso de limpieza y transformación de datos para categorizar datos en un formato adecuado para el análisis. Posteriormente, se aplicó una estrategia de agrupación por taller, edad y nivel academico, lo que permitió estudiar la evolución del resago educativo y el uso de la computadora para adultos mayores, ya que este fue el taller mas usado.
-
-Una parte destacada del trabajo fue el desarrollo de un script en Python que permite categorizar a los talleres, ya que estos fueron registrados de manera aleatoria.
-
-- 🔹 **Logros y resultados:** Se logro observar que los talleres con mayor demanda eran matemáticas y el uso de computadora, ademas de que en promedio la edad de las personas con estudios superiores era de 29, 30 y 31 años, mientras que los adultos mayores hacian uso de la computadora y su edad promedio era de 60 y 61 años. Esto ayudo a implementar acciones que nos ayudara a cercar a las personas a continuar sus estudios. 
-- 🔹 **Tecnologías y habilidades usadas:** Pandas, Numpy, Tableau, pandas, programación, visualización y limpieza de datos. 
-- 🔹 **Casos de uso:** Visualizaciones múltiples de tendencia. 
-- 🔹 **Qué aprendí:** Categorizar información, encontrar tendencias y evolución de mis variables a lo largo de dos años. 
-- 🔹 **Futuras mejoras:** Incorporar los registros de los años 2023, 2024 y 2026 para realizar comparaciones a lo largo de estos últimos 6 años. Implemetar modelos de inteligencia artificar para clasificar con mayor facilidad los datos y predecir resultados.
-
 # 🚔 Análisis de talleres, edades y resago educativo en PILARES, TLAHUAC, CDMX | Data Analyze
 
 ## 📌 Objetivo del proyecto
@@ -322,43 +310,36 @@ Analizar datos de Pilares Nopalera de los años 2020, 2021, 2022 y 2025 para obs
 
 ## ⚙️ Flujo de trabajo del pipeline
 
-1. Extracción de datos históricos sobre crímenes en Estados Unidos en formato CSV.
+1. Extracción de datos históricos sobre los usarios en el Pilares Nopalera de los años 2020, 2021, 2022 y 2025. 
 2. Limpieza, validación y transformación de datos utilizando Python y Pandas.
-3. Simulación de eventos en tiempo semi-real mediante Kafka Producer.
-4. Procesamiento de eventos utilizando Kafka Consumer.
-5. Carga de datos procesados en BigQuery.
-6. Visualización y análisis de métricas en Looker Studio.
-7. Contenerización completa utilizando Docker Compose.
-
+3. El proceso ETL nos genera un archivo CSV limpio de mis datos. 
+6. Visualización y análisis de los datos con Tableau.
 ---
 
 ## 📈 Resultados obtenidos
 
-- Identificación de los autobuses que llegan a una parada en función de su ID. 
-- Simulación exitosa de eventos utilizando Apache Kafka.
-- Integración funcional entre Kafka, BigQuery y Looker Studio.
-- Construcción de un pipeline End-To-End orientado a ingeniería de datos.
+- En promedio las personas jovenes entre la edad 15 a 14 años venian por cursos de computación y talleres de matemáticas. 
+- Adultos mayores entre 60 y 55 años no tenian ningun tipo de educacion, mientras que las personas adultas entre 29 y 30 años tenian estudios superiores. 
+- Habían personas que venian de la delegación Iztapalapa, ahí es donde se concentraba un poco mas que en Tlahuac el rezago educativo. 
+- Construcción de un pipeline ETL con ayuda de Python. 
 
 ---
 
 ## 🧠 Qué aprendí
 
-- Arquitectura general de proyectos de ingeniería de datos.
+- Arquitectura basica para analizar datos. 
 - Procesos ETL utilizando Python.
-- Manejo de eventos en tiempo semi-real con Kafka.
-- Integración de BigQuery con herramientas de visualización.
-- Contenerización de arquitecturas utilizando Docker.
-- Diseño de dashboards para extracción de insights.
+- Manejo de Tableau para organizar la información. 
+- Diseño de dashboards para la toma de decisiones. 
 
 ---
 
 ## 🚀 Futuras mejoras
 
-- Incorporar Apache Airflow para automatización y orquestación.
-- Implementar procesamiento distribuido.
-- Integrar datos recientes en tiempo real.
-- Crear modelos predictivos sobre comportamiento delictivo.
-- Escalar consumidores Kafka utilizando particiones.
+- Incorporar los datos de los años 2026 para contrastar con los anteriores. 
+- Contrastar con otras alcaldias. 
+- Crear modelos predictivos sobre comportamiento de los talleres de matemáticas. 
+- Escalar el proyecto, pero esto requiere acudir a otros PILARES para tener acceso a esa información. 
 
 ---
 
