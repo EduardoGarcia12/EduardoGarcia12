@@ -288,13 +288,11 @@ Analizar datos de Pilares Nopalera de los años 2020, 2021, 2022 y 2025 para obs
 ### Dashboard en Looker Studio
 
 <p align="center">
-<a href="LINK_DASHBOARD_LOOKER">
   <img src="PILARES_2020_A_2022.png" width="900"/>
 </a>
 </p>
 
 <p align="center">
-<a href="LINK_DASHBOARD_LOOKER">
   <img src="PILARES_2025.png" width="900"/>
 </a>
 </p>
@@ -400,22 +398,19 @@ En este proyecto vamos a desarrollar un modelo estrella muy pequeño e implement
 
 ## 📊 Dashboard y visualizaciones
 
-### Dashboard en Looker Studio
+### Dashboard Power BI
 
 <p align="center">
-<a href="LINK_DASHBOARD_LOOKER">
   <img src="gymdashboard1..jpg" width="900"/>
 </a>
 </p>
 
 <p align="center">
-<a href="LINK_DASHBOARD_LOOKER">
   <img src="gymdashboard2..jpg" width="900"/>
 </a>
 </p>
 
 <p align="center">
-<a href="LINK_DASHBOARD_LOOKER">
   <img src="gymdashboard3..jpg" width="900"/>
 </a>
 </p>
@@ -525,7 +520,6 @@ Realizar un análisis de los autobuses que siguen rutas especificas en la ciudad
 ### Dashboard en Looker Studio
 
 <p align="center">
-<a href="LINK_DASHBOARD_LOOKER">
   <img src="arquitecture_bus.png" width="900"/>
 </a>
 </p>
