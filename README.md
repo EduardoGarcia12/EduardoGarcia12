@@ -570,15 +570,15 @@ Realizar un análisis de los autobuses que siguen rutas especificas en la ciudad
 ## 🌐 Conecta conmigo
 
 <p align="left">
-  <a href="TU_LINKEDIN">
+  <a href="www.linkedin.com/in/eduardo-garcía-171889273">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
-  <a href="TU_GITHUB">
+  <a href="https://github.com/EduardoGarcia12/EduardoGarcia12">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 
-  <a href="TU_YOUTUBE">
+  <a href="https://www.youtube.com/@teamzabu3779">
     <img src="https://skillicons.dev/icons?i=youtube" />
   </a>
 </p>
