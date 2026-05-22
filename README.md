@@ -570,7 +570,7 @@ Realizar un análisis de los autobuses que siguen rutas especificas en la ciudad
 ## 🌐 Conecta conmigo
 
 <p align="left">
-  <a href="www.linkedin.com/in/eduardo-garcía-171889273">
+  <a href="https://www.linkedin.com/in/eduardo-garc%C3%ADa-171889273/?locale=es">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
