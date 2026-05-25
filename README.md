@@ -648,7 +648,7 @@ Analizar datos de ventas en tiendas de abarrotes utilizando Power BI, obtener el
 
 ## 📂 Repositorio del proyecto
 
-🔗 [Ver repositorio completo](https://github.com/EduardoGarcia12/An-lisis-de-datos-sobre-la-educaci-n-en-la-Alcald-a-Tlahuac-Ciudad-de-M-xico)
+🔗 [Ver repositorio completo](https://github.com/EduardoGarcia12/Proyecto-BI-sobre-tiendas-de-abarrotes/blob/main/README.md)
 
 ---
 
