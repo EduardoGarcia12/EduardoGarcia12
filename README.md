@@ -341,7 +341,7 @@ Analizar datos de Pilares Nopalera de los años 2020, 2021, 2022 y 2025 para obs
 
 ---
 
-# 🚔 Análisis de KPI'S para un gimnasio | Data Analyze BI 
+# 🚔 Análisis de KPI'S para un gimnasio | Análisis de datos BI 
 
 ## 📌 Objetivo del proyecto
 
