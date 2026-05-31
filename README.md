@@ -683,6 +683,121 @@ Analizar datos de ventas en tiendas de abarrotes utilizando Power BI, obtener el
 - Crear modelos predictivos sobre comportamiento de esta categoria para optimizar las ventas. 
 - Escalar el proyecto simulado datos con Apache Kafka y ver la reaccion del modelo ante ciertos tipos de excepciones y/o errores. 
 
+---
+
+# Proyecto BI sobre afluencia de usuarios y talleres en PILARES | Analisis de datos
+Análisis de datos BI con enfoque la educación. 
+
+## 📌 Objetivo del proyecto
+
+Analizar datos de usuarios que acuden a PILARES MURCIELAGO, así como las actividades mas demandantes para poder tomar decisiones en función de ello, como implementar metodos de estudio, capacitaciones y difusión de las mismas actividades que se imparten en dicho pilares en particular. 
+
+## 🛠️ Tecnologías utilizadas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,,tableau, excel" />
+</p>
+
+- Python
+- Power BI
+- Excel 
+- Pandas  
+
+---
+
+## 🧱 Arquitectura del proyecto
+
+<p align="center">
+  <img src="grosery.png" width="900"/>
+</p>
+
+---
+
+## 🎥 Videos del proyecto
+
+<table>
+<tr>
+
+<td align="center">
+
+## 🎥 Explicación en Español
+
+<a href="https://www.youtube.com/watch?v=wUgCyCNnwUU&t">
+  <img src="https://img.youtube.com/vi/wUgCyCNnwUU&t/maxresdefault.jpg" width="700"/>
+</a>
+
+### 🇺🇸 English Version
+
+<a href="LINK_VIDEO_ENGLISH">
+  <img src="https://img.youtube.com/vi/jINcV2zDAk0/maxresdefault.jpg" width="400"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 📊 Dashboard y visualizaciones
+
+### Dashboard en Power BI
+
+<p align="center">
+  <img src="dashboard/actividadcomun.jpg" width="900"/>
+</p>
+
+<p align="center">
+  <img src="dashboard/foliosprofe.jpg" width="900"/>
+</p>
+
+<p align="center">
+  <img src="dashboard/usuariosconstantes.jpg" width="900"/>
+</p>
+
+---
+
+## 📂 Repositorio del proyecto
+
+🔗 [Ver repositorio completo](https://github.com/EduardoGarcia12/Pilares-Murci-lago-)
+
+---
+
+## ⚙️ Flujo de trabajo del pipeline
+
+1. Archivo Excel que contiene la información de los usuarios. 
+2. Limpieza, validación y transformación de datos utilizando Python con la libreria Pandas.
+3. El proceso ETL nos genera un archivo CSV limpio.
+4. Implementacion del podelo estrella para poder tener un flujo de trabajo mas ordenado y poder crear calculos eficientemente. 
+5. Visualización y análisis de los datos con Power BI.
+---
+
+## 📈 Resultados obtenidos
+
+- Se pbserva que la profesora Helen y Wendi son las que mas usuarios acuden con ellas en el dashboard. 
+- Las actividad con que presenta mayores usuarios es el examen único. 
+- Observar la frecuencia a la que asistian los usuarios con mayor a 200 registros a lo largo del año. 
+- La mayoria de los usuarios son mujeres. 
+
+---
+
+## 🧠 Qué aprendí
+
+- Arquitectura basica para analizar datos. 
+- Procesos ETL utilizando Python.
+- Manejo de Power BI para organizar la información. 
+- Diseño de dashboards para la toma de decisiones y propuestas de estrategias así como implementaciones pedagogicas. 
+
+---
+
+## 🚀 Futuras mejoras
+
+- Comparar con otros PILARES el flujo de usuarios y contrastar cual o cuales son las actividades mas demandadas por cada PILARES y apoyo mutuo entre implementaciones eduacativas así como la difusión de las mismas actividades.
+- Simular datos con Apache Kafka para considerar incosistencias con los datos y asegurar la idempotencia del proceso ETL. 
+- Crear modelos predictivos sobre comportamiento de esta categoria para optimizar las ventas. 
+- Escalar el proyecto simulado datos con Apache Kafka y ver la reaccion del modelo ante ciertos tipos de excepciones y/o errores. 
+
+
 
 
 ## 🌐 Conecta conmigo
