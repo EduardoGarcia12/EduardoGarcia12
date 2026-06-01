@@ -679,7 +679,6 @@ Analizar datos de usuarios que acuden a PILARES MURCIELAGO, así como las activi
 - Escalar el proyecto simulado datos con Apache Kafka y ver la reaccion del modelo ante ciertos tipos de excepciones y/o errores. 
 
 ---
----
 
 # Proyecto BI sobre finanzas | Analisis de datos
 Análisis de datos BI para la deteccion de fraudes a partir de transacciones, bancos, categorias y score de riesgo. Ademas vamos a obtener KPIS como la tasa de fraude por transaccion
@@ -706,7 +705,7 @@ ademas de implementar el proceso ETL para nuestro archivo Excel.
 ## 🧱 Arquitectura del proyecto
 
 <p align="center">
-  <img src="grosery.png" width="900"/>
+  <img src="arquitectura_bi_finanzas.jpg" width="900"/>
 </p>
 
 ---
@@ -756,6 +755,11 @@ ademas de implementar el proceso ETL para nuestro archivo Excel.
 <p align="center">
   <img src="dashboard_finanzas/ticket.jpg" width="900"/>
 </p>
+
+---
+## 📂 Repositorio del proyecto
+
+🔗 [Ver repositorio completo](https://github.com/EduardoGarcia12/Analisis-de-datos-financiero-BI-)
 
 ---
 
