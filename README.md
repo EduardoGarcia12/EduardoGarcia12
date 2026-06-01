@@ -341,7 +341,7 @@ Analizar datos de Pilares Nopalera de los años 2020, 2021, 2022 y 2025 para obs
 
 ---
 
-# 🚔 Análisis de KPI'S para un gimnasio | Análisis de datos BI 
+#Análisis de KPI'S para un gimnasio | Análisis de datos BI 
 
 ## 📌 Objetivo del proyecto
 
@@ -352,14 +352,13 @@ En este proyecto vamos a desarrollar un modelo estrella muy pequeño e implement
 ## 🛠️ Tecnologías utilizadas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,,tableau, excel" />
+  <img src="https://skillicons.dev/icons?i=python,powerbi" />
 </p>
 
 - Python
 - Power BI
 - Excel 
-- Pandas  
-
+- Pandas
 ---
 
 ## 🧱 Arquitectura del proyecto
@@ -577,14 +576,14 @@ Analizar datos de usuarios que acuden a PILARES MURCIELAGO, así como las activi
 ## 🛠️ Tecnologías utilizadas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,,tableau, excel" />
+  <img src="https://skillicons.dev/icons?i=python,powerbi" />
 </p>
 
 - Python
 - Power BI
 - Excel 
-- Pandas  
-
+- Pandas
+---
 ---
 
 ## 🧱 Arquitectura del proyecto
