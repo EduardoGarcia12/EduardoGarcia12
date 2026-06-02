@@ -252,7 +252,7 @@ Analizar datos de Pilares Nopalera de los años 2020, 2021, 2022 y 2025 para obs
 ## 🧱 Arquitectura del proyecto
 
 <p align="center">
-  <img src="pilares_nopalera_arquitectura.jpg" width="900"/>
+  <img src="arqui_nopa/pilares_nopalera_arquitectura.jpg" width="900"/>
 </p>
 
 ---
