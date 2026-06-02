@@ -584,7 +584,6 @@ Analizar datos de usuarios que acuden a PILARES MURCIELAGO, así como las activi
 - Excel 
 - Pandas
 ---
----
 
 ## 🧱 Arquitectura del proyecto
 
