@@ -483,7 +483,7 @@ Realizar un análisis de los autobuses que siguen rutas especificas en la ciudad
 ## 🧱 Arquitectura del proyecto
 
 <p align="center">
-  <img src="arquitecture_bus.png" width="900"/>
+  <img src="arquitectura_nyb/arqui_nyb3.jpg" width="900"/>
 </p>
 
 ---
@@ -516,10 +516,15 @@ Realizar un análisis de los autobuses que siguen rutas especificas en la ciudad
 
 ## 📊 Dashboard y visualizaciones
 
-### Dashboard en Looker Studio
+### Dashboard en Metabase
 
 <p align="center">
-  <img src="arquitecture_bus.png" width="900"/>
+  <img src="dashboard_nyb/promedio_retraso.png" width="900"/>
+</a>
+</p>
+
+<p align="center">
+  <img src="dashboard_nyb/retrazo_buses.jpg" width="900"/>
 </a>
 </p>
 
